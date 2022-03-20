@@ -1,8 +1,8 @@
-#Section1
+# Section1 -UI Manual Testing
 
-#  UI Manual Testing
+>### Based on the following screen, create all the test cases you will run to test if the Sign in page is working correctly.
 
- Based on the following screen, create all the test cases you will run to test if the Sign in page is working correctly.
+Test cases:
 
 1. Verify if an empty email, but valid password is displaying error below email input.
 2. Verify if an invalid email, but valid password is displaying error below email input.
