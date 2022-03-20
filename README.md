@@ -15,10 +15,11 @@ Third part of the challenge
   UI Automation
 I created the automated test scripts in Cypress, 
 
-You need to have installed cypress and typescript:
+You need to have installed cypress and typescript
   You can install them with these commands:
-    npm install cypress
-    npm install typescript
+  
+    cypress: 'npm install cypress' 
+    typescript: 'npm install typescript'
 
 1. Run to create the package.json at project folder
     npm init -y 
